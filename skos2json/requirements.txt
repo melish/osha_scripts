@@ -1,0 +1,4 @@
+sqlalchemy
+rdflib
+python-skos
+rdflib-jsonld
