@@ -1,0 +1,678 @@
+[
+  {
+    "alias": "/data/case-studies/my-demo-test-case-study/opoce_2008-3082_TEWE09001ENC_WEB-_Destinations.pdf", 
+    "filename": "opoce_2008 3082_TEWE09001ENC_WEB _Destinations.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/partnerships-on-health-promotion-and-work-environment-improvement/DK-Partnerships-on-health-promotion_pictures.pdf", 
+    "filename": "DK-Partnerships on health promotion_pictures.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/comprehensive-health-and-wellbeing-for-all-staff-in-rigshospitalet-copenhagen-university-hospital/DK-Healthy-Hospital_pictures.pdf", 
+    "filename": "DK-Healthy Hospital_pictures.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/wellbeing-by-becoming-a-value-driven-company/BE-Durabrik-value-driven-company_pictures.pdf", 
+    "filename": "BE - Durabrik - value driven company_pictures.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/network-of-healthy-small-and-medium-sized-enterprises-smes/NL-network-of-healthy-SMEs_pictures.pdf", 
+    "filename": "NL - network of healthy SMEs_pictures.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/q-active/UK-NUH-Q-Active_pictures.pdf", 
+    "filename": "UK - NUH Q-Active_pictures.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/health-promoting-workplaces-2013-a-competence-programme/NO-competence-programme_pictures.pdf", 
+    "filename": "NO - competence programme_pictures.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/working-well-national-grid/UK-National-Grid.pdf", 
+    "filename": "UK-National Grid.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/occupational-health-and-safety-management-for-employees-aged-45/RO-SIBIU-employees-45.pdf", 
+    "filename": "RO - SIBIU employees 45.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/the-abhealth-in-businessbb-award/LU-Health-in-Business-Award.pdf", 
+    "filename": "LU - Health in Business Award.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/esb-energy-for-living/IE-ESB.pdf", 
+    "filename": "IE- ESB.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/spanish-network-of-healthy-universities/ES-network-of-healthy-universities.pdf", 
+    "filename": "ES- network of healthy universities.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/healthguard-programme-at-guardian-tudela/ES-HealthGuard-programm-at-Guardian-Tudela.pdf", 
+    "filename": "ES - HealthGuard programm at Guardian Tudela.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/healthy-fridays/EE-Healthy-Fridays.pdf", 
+    "filename": "EE - Healthy Fridays.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/established-german-marzipan-company-continues-sustainable-health-promotion/DE-health-promotion-in-Niederegger.pdf", 
+    "filename": "DE- health promotion in Niederegger.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/austrian-cooperation-on-workplace-health-promotion/AT-cooperation-on-WHP.pdf", 
+    "filename": "AT- cooperation on WHP.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/copy_of_risk-assessment-by-a-small-company-using-stoffenmanager-nano/Nano-case-study_TNO_Stoffenmanager_Nano.pdf", 
+    "filename": "Nano case study_TNO_Stoffenmanager_Nano.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/copy_of_good-practice-handling-carbon-nanotubes/Nano-case-study-case_TNO_Nanocyl.pdf", 
+    "filename": "Nano case study case_TNO_Nanocyl.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/copy_of_good-practice-manufacturing-and-manipulation-of-manufactured-nano-objects/Nano-case-study_TNO_IMEC.pdf", 
+    "filename": "Nano case study_TNO_IMEC.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/nanomaterials-and-nanotechnology-applications-in-medicine/nanomaterials-in-medicine.pdf", 
+    "filename": "nanomaterials in medicine.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/nanotechnologies-for-cleaning-surfaces/nanotechnologies-for-cleaning.pdf", 
+    "filename": "nanotechnologies for cleaning.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/nanopowders-used-in-the-medical-industry/nanopowders-in-the-medical-industry.pdf", 
+    "filename": "nanopowders in the medical industry.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/nanomaterials-in-plastic-industry-1/Nano-case-_study_CIOP_Polimarky_20072011_v03_RLG_w.pdf", 
+    "filename": "Nano-case _study_CIOP_Polimarky_20072011_v03_RLG_w.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/coordinating-repair-and-maintenance-with-the-client/GPA_case-study_INSHT_ES-12_22_11_2011_V05.pdf", 
+    "filename": "GPA_case study_INSHT_ES-12_22_11_2011_V05.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/the-system-of-maintaining-and-improving-the-safety-and-reliability-of-machinery-equipment-and-infrastructure-on-the-premises-of-glaxosmithkline-pharmaceuticals-plant-in-poznan/The-system-of-maintaining-and-improving-the-safety.pdf", 
+    "filename": "The system of maintaining and improving the safety and reliability of machinery equipment and infrastructure on the premises of GlaxoSmithKline P.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/overall-safety-management-of-maintenance-work/Overall-safety-management-of-maintenance-work.pdf", 
+    "filename": "Overall safety management of maintenance work.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/safe-work-when-welding-in-a-sealed-vessel/111122_MM_SAFE-WORK-WHEN-WELDING-IN-A-SEALED.pdf", 
+    "filename": "111122_MM_SAFE WORK WHEN WELDING IN A SEALED VESSEL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/preventive-maintenance-protocol-in-a-construction-company2019s-central-machinery-pool/GPA_case-study_INSHT_ES-13_21_11_2011_V04.pdf", 
+    "filename": "GPA_case study_INSHT_ES-13_21_11_2011_V04.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/management-of-preventive-and-corrective-maintenance/111117_MM_Management-of-preventive-and-corrective.pdf", 
+    "filename": "111117_MM_Management of preventive and corrective maintenance.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/tarmac-west-region-maintenance-strategy/GPA-case-study_HSL_111108_Tarmac-Maintenance.pdf", 
+    "filename": "GPA-case study_HSL_111108_Tarmac Maintenance Strategy.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/pepsico-carrigaline-2013-safety-action-teams/GPA-case-study_HSL_111108_-PepsiCo-Safety-Action.pdf", 
+    "filename": "GPA-case study_HSL_111108_ PepsiCo Safety Action Teams.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/smartcity-malta-maintenance-regime-of-on-site-machinery-equipment-and-apparatus/GPA-case-study_HSL_111108_SmartCity-Maintenance.pdf", 
+    "filename": "GPA-case study_HSL_111108_SmartCity Maintenance Regime.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/britvic-soft-drinks-maintenance-safety/GPA-case-study_HSL_111108_-BRITVIC-MAINTENANCE.pdf", 
+    "filename": "GPA-case study_HSL_111108_ BRITVIC MAINTENANCE.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/risk-assessment-for-maintenance-hazards-and-identification-of-safe-maintenance-methods/GPA-case-study_KOOP_TR-35_17102011_v04.pdf", 
+    "filename": "GPA-case study_KOOP_TR-35_17102011_v04.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/proactive-and-reactive-interventions-to-improve-safe-maintenance/GPA-case-study_KOOP_MT-20_18102011_v04.pdf", 
+    "filename": "GPA-case study_KOOP_MT-20_18102011_v04.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/healthy-firefighters/Healthy-firefighters.pdf", 
+    "filename": "Healthy firefighters.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/a-common-training-model-for-occupational-safety-orientation/A-common-training-model-for-occupational-safety.pdf", 
+    "filename": "A common training model for occupational safety orientation.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/elimination-of-legionella-in-a-hospital-ward/Legionelle-CS-PL-FINAL.pdf", 
+    "filename": "Legionelle CS - PL FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/solving-problems-from-legionella-contamination-in-a-czech-hospital/Legionella-CS-CZ-FINAL.pdf", 
+    "filename": "Legionella CS - CZ FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/removal-of-pack-from-cooling-towers-for-cleaning-and-inspection/Legionella-CS-UK-FINAL.pdf", 
+    "filename": "Legionella CS - UK FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/effective-legionellae-control-at-the-academic-hospital-saint-luc-brussels/Legionella-CS-BE-FINAL.pdf", 
+    "filename": "Legionella CS - BE FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/management-of-legionella-risk-on-ships/Legionella-CS-NL-FINAL.pdf", 
+    "filename": "Legionella CS - NL FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/manual-for-the-prevention-of-legionellosis-in-installations-at-risk/Legionella-CS-ES-FINAL.pdf", 
+    "filename": "Legionella CS - ES FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/environmental-health-surveillance-programme-for-the-prevention-of-legionnaires2019-disease-during-the-athens-2004-olympics/Legionella-CS-GR-FINAL.pdf", 
+    "filename": "Legionella CS - GR FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/minimising-legionella-in-the-water-at-a-hungarian-pharmaceutical-plant/Legionella-CS-HU-FINAL.pdf", 
+    "filename": "Legionella CS - HU FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/preventing-legionellae-in-an-austrian-hospital-through-a-new-water-installation-that-complies-with-austrian-standard-onorm-b5019/Legionella-CS-AT-FINAL.pdf", 
+    "filename": "Legionella CS- AT FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/risk-assessment-as-an-aid-for-the-prevention-of-legionella-contamination-in-italian-trains/Legionella-CS-IT-FINAL.pdf", 
+    "filename": "Legionella CS - IT FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/technical-and-organisational-measures-for-preventing-exposure-to-legionella-in-a-dental-practice/Legionella-CS-RO-FINAL.pdf", 
+    "filename": "Legionella CS - RO FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/the-anti-legionellae-circuit-a-simple-way-of-heat-treating-pipes-to-keep-legionella-at-bay/Legionella-CS-DE-FINAL.pdf", 
+    "filename": "Legionella  CS - DE FINAL.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/preventing-tick-bites/Stigas_preventing-tick-bites.pdf", 
+    "filename": "Stigas_preventing tick bites.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/ergonomic-solutions-and-organisational-measures-addressing-the-need-for-a-reduction-in-risk-from-biomechanical-and-working-overload-in-the-fishing-sector-of-marche-region/Ergonomic-solutions-in-fishing.pdf", 
+    "filename": "Ergonomic solutions in fishing.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/farm-risk-map-2013-risk-assessment-tools-for-farms/Farm-risk-map.pdf", 
+    "filename": "Farm risk map.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/safe-exploitation-of-tractors-and-agricultural-machinery/Safe-exploitation-of-tractors.pdf", 
+    "filename": "Safe exploitation of tractors.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/an-adequate-managerial-approach-for-safer-workplaces-and-a-healthier-workforce-in-a-medium-sized-agricultural-exploitation/Adequate-managerial-approach.pdf", 
+    "filename": "Adequate managerial approach.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/reducing-musculoskeletal-load-in-a-fishing-enterprise/Reducing-MSDs-in-fishing.pdf", 
+    "filename": "Reducing MSDs in fishing.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/training-for-fishermen/Training-for-Fishermen.pdf", 
+    "filename": "Training for Fishermen.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/municipal-specialist-for-safety-at-work/Municipal-Specialist.pdf", 
+    "filename": "Municipal Specialist.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/mobiles-fahrsilogelander-mobile-201cdrive-in-silo201d-railing/Mobiles-fahrsilo.pdf", 
+    "filename": "Mobiles fahrsilo.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/driver-assistant-system/Driver-assistant-system.pdf", 
+    "filename": "Driver assistant system.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/mobile-waldbauernschule-mobile-farm-forestry-school/Mobile-farm-forestry-school.pdf", 
+    "filename": "Mobile farm forestry school.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/safety-and-health-awareness-days-shads/Safety-and-health-SHADs.pdf", 
+    "filename": "Safety and health SHADs.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/partners-in-safety-at-corus-htd/Corus-Htd.pdf", 
+    "filename": "Corus Htd.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/a-joint-vision-for-human-resources-management-and-welfare-at-work/welfare-at-work.pdf", 
+    "filename": "welfare at work.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/workplace-health-promotion-at-ceska-rafinerska-oil-refinery/Ceska-rafinerska.pdf", 
+    "filename": "Ceska rafinerska.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/corporate-social-responsibility-and-total-quality-management-in-an-sme/corporate-social-responsibility.pdf", 
+    "filename": "corporate social responsibility.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/embedding-safety-in-the-company2019s-core-business-the-stuck-pipeline2019-case/embedding-safety.pdf", 
+    "filename": "embedding safety.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/implementation-of-an-integrated-management-system-quality-environment-safety-and-health-in-vienna2019s-municipal-department/implementation-of-integrated-management-system.pdf", 
+    "filename": "implementation of integrated management system.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/establishment-of-an-integrated-quality-safety-and-environment-management-system-for-industrial-waste-land-reclamation-at-apinor/establishment-of-an-integrated-quality.pdf", 
+    "filename": "establishment of an integrated quality.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/osh-management-in-a-supermarket-chain/supermarket-chain.pdf", 
+    "filename": "supermarket chain.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/sme-introduces-the-sgm-system-of-the-austria-social-accident-insurance/SME-the-SGM-system.pdf", 
+    "filename": "SME the SGM system.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/improving-safety-management-at-helsinki-water/helsinki-water.pdf", 
+    "filename": "helsinki water.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/achieving-zero-accidents-in-a-plasterboard-wall-factory/achieving-zero-accidents.pdf", 
+    "filename": "achieving zero accidents.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/the-safety-management-system-in-a-waste-management-centre-at-sita-sud/sita-sud.pdf", 
+    "filename": "sita sud.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/working-safely-in-a-multicultural-food-and-drink-industry/working-safely-in-a-multicultural-food-and-drink.pdf", 
+    "filename": "working safely in a multicultural food and drink industry.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/safe-system-of-work-plan-for-construction-industry/safe-system-of-workplan.pdf", 
+    "filename": "safe system of workplan.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/collaboration-between-agencies-and-employers-to-reduce-accidents-among-temporary-workers/collaboration-between-agencies-and-employers-to.pdf", 
+    "filename": "collaboration between agencies and employers to reduce accidents.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/tailored-training-strategies-in-osh-for-young-people-with-disabilities/Tailored-training-for-young-people-with.pdf", 
+    "filename": "Tailored training for young people with disabilities.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/diversity-plan-how-to-bring-comprehensible-instructions-to-the-workfloor/diversity-plan.pdf", 
+    "filename": "diversity plan.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/preventing-accidents-to-temporary-workers-at-a-paper-mill/preventing-accidents-to-temporary-workers-at-paper.pdf", 
+    "filename": "preventing accidents to temporary workers at paper mill.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/promoting-the-integration-of-workers-with-disabilities-at-ford/promoting-the-integration-of-workers.pdf", 
+    "filename": "promoting the integration of workers.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/reducing-stress-among-female-cleaners-at-a-hospital/reducing-stress-among-female-cleaners.pdf", 
+    "filename": "reducing stress among female cleaners.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/productive-ageing-shift-plan-reform-at-polyfelt-now-tencate/productive-ageing.pdf", 
+    "filename": "productive ageing.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/ergonomic-adaptation-of-office-and-industrial-workstations-for-disabled-workers/ergonomic-adaptation.pdf", 
+    "filename": "ergonomic adaptation.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/osh-leadership-refined-at-british-sugar/OSH-leadership-refined-at-British-Sugar.pdf", 
+    "filename": "OSH leadership refined at British Sugar.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/common-health-policy-at-alstom/Common-health-policy-at-Alstom.pdf", 
+    "filename": "Common health policy at Alstom.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/better-health-prevention-better-work-performance-at-popeci/Better-health-prevention-better-work-performances.pdf", 
+    "filename": "Better health prevention better work performances at Popeci.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/coordination-and-support-for-managers/Support-for-unit-leaders.pdf", 
+    "filename": "Support for unit leaders.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/everybody-for-safety-at-enel-romania/Everybody-for-Safety-at-ENEL-Romania.pdf", 
+    "filename": "Everybody for Safety at ENEL Romania.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/promoting-safety-performance-in-a-high-hazard-industry/Promoting-Safety-Performance-in-a-High-Hazard.pdf", 
+    "filename": "Promoting Safety Performance in a High Hazard Industry - Babcock.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/safety-culture-a-global-approach-supported-by-the-hierarchy/A-Global-Approach-Supported-by-the-Hierarchy-in.pdf", 
+    "filename": "A Global Approach Supported by the Hierarchy in Avery Dennisson.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/tnt-express-france/TNT-Express-France.pdf", 
+    "filename": "TNT Express France.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/participative-managment-a-fundamental-tool-for-a-motivational-well-being-policy/TVH-Participative-Management.pdf", 
+    "filename": "TVH Participative Management.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/all-for-one-2013-one-for-all/All-for-one-one-for-all-Marchl.pdf", 
+    "filename": "All for one - one for all (Marchl).pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/kovokon-popovice-ltd/Involving-Employees-in-Improving-Health-and-Safety.pdf", 
+    "filename": "Involving Employees in Improving Health and Safety in Kokovon.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/backing-healthy-backs/Backing-healthy-backs.pdf", 
+    "filename": "Backing healthy backs.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/supervising-a-variety-of-background-cultures-on-site-2/Supervising-a-Variety-of-Background-Cultures-on.pdf", 
+    "filename": "Supervising a Variety of Background Cultures on Site - Essent.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/leadership-prevention-management-at-henkel-iberica/Leadership-prevention-management.pdf", 
+    "filename": "Leadership prevention management.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/a-european-wide-standard-for-safety/Noble-Corp-A-European-Wide-Standard-for-Safety.pdf", 
+    "filename": "Noble Corp - A European Wide Standard for Safety.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/glue-emf-2014-electromagnetic-field-control-for-example-in-glue-drying-devices/GLUE-EMF.pdf", 
+    "filename": "GLUE EMF.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/welders-emf-2014-reduction-of-welders2019-exposure-to-magnetic-fields-from-induction-heaters-used-in-power-stations/welders-emf.pdf", 
+    "filename": "welders emf.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/stress-in-hospitals-2014-assessment-of-psychosocial-and-physical-risks/stress-in-hospitals.pdf", 
+    "filename": "stress in hospitals.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/holistic-ra-2014-holistic-risk-assessment/holistic-RA.pdf", 
+    "filename": "holistic RA.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/dental-laboratory-2014-capturing-pollutants-at-source/Dental-laboratory.pdf", 
+    "filename": "Dental laboratory.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/crushed-fingers-2014-modification-of-a-protective-plate-in-order-to-eliminate-of-crushed-fingers/Crushed-fingers.pdf", 
+    "filename": "Crushed fingers.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/pleasure-boats-2014-improved-load-handling-during-shaft-assembly-operations/pleasure-boats.pdf", 
+    "filename": "pleasure boats.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/using-pneumatic-screwdrivers-2014-elimination-of-risks-arising-from-hand-arm-vibration-exposure/pneumatic-screwdrivers.pdf", 
+    "filename": "pneumatic screwdrivers.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/ergonomic-solutions-in-tomato-harvesting-and-post-harvest-handling/Ergonomic-solutions-in-tomato-harvesting.pdf", 
+    "filename": "Ergonomic solutions in tomato harvesting.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/prevention-of-musculoskeletal-disorders/MSDs-at-Port-Wine-vines-cultivation_PT.pdf", 
+    "filename": "MSDs at Port Wine vines cultivation_PT.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/efficiency-and-health-protection-of-employees-at-alcobaca-apples-and-oeste-rocha-pears-cultivation/Alcobaca-apples-and-Rocha-pears.pdf", 
+    "filename": "Alcoba\u00e7a apples and Rocha pears.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/healthy-farmers-healthy-profits-project/Healthy-farmers-healthy-profits-project.pdf", 
+    "filename": "Healthy farmers, healthy profits project.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/the-crop-cultivation-bicycle/The-crop-cultivation-bicycle.pdf", 
+    "filename": "The crop cultivation bicycle.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/specific-ergonomic-training-for-fishermen-and-other-boat-workers/Training-for-fishermen-and-other-boat-workers.pdf", 
+    "filename": "Training for fishermen and other boat workers.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/prevention-of-msds-in-viticulture/Prevention-of-MSDs-in-viticulture.pdf", 
+    "filename": "Prevention of MSDs in viticulture.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/long-term-prevention-of-msd-institutional-players-facilitate-an-enterprise-level-approach/Long-term-preventio-of-MSDs-Enterprise-level.pdf", 
+    "filename": "Long-term preventio of MSDs - Enterprise-level approach.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/semi-automatic-harvesting-of-white-asparagus/Semiautomatic-harvesting-of-white-asparagus.pdf", 
+    "filename": "Semiautomatic harvesting of white asparagus.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/health-promotion-project-2018bbb-2013-bewusst-bewegt-am-bauernhof2019-moving-consciously-at-the-farm-for-farmers-1/Health-promotion-project-BBB-final.pdf", 
+    "filename": "Health promotion project BBB final.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/happiness-at-work/Happiness-at-Work-with-R.pdf", 
+    "filename": "Happiness at Work with R.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/active-and-healthy-apprentices-in-linz/Active-and-healthy-apprentices-in-Linz.pdf", 
+    "filename": "Active and healthy - apprentices in Linz.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/health-promotion-programme-of-ulss-22-for-prevention-of-alcoholism/Health-promotion-programme-of-ULSS-22-for.pdf", 
+    "filename": "Health promotion programme of ULSS 22 for prevention of alcoholism.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/soederhamm-municipality-introduction-programme-for-newly-qualified-teachers/Soederhamm-municipality-introduction-programme-for.pdf", 
+    "filename": "S\u00f6derhamm municipality - introduction programme for newly qualified teachers.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/sports-and-nature-against-alcohol-abuse-and-tobacco-smoking-campaign/Battle-Against-Alcohol-Abuse-and-Tobacco-Smoking.pdf", 
+    "filename": "Battle-Against-Alcohol-Abuse-and-Tobacco-Smoking-Campaign.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/workplace-health-promotion-in-a-temporary-employment-agency/Workplace-health-promotion-in-a-temporary.pdf", 
+    "filename": "Workplace-health-promotion-in-a-temporary-employment-agency.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/young-professionals/Young-professionals.pdf", 
+    "filename": "Young professionals.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/healthy-youth-a-project-to-promote-safe-and-healthy-lifestyles-for-young-workers/Healthy-Youth-Project-to-promote-safe-and-healthy.pdf", 
+    "filename": "Healthy Youth-Project to promote safe and healthy lifestyles.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/workplace-health-promotion-for-young-workers-pilot-project-u-21/Workplace-health-promotion-for-young-workers-pilot.pdf", 
+    "filename": "Workplace health promotion for young workers - pilot project U21.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/extra-instructions-of-young-superintendents-in-a-swimming-pool/Extra-instructions-of-young-superintendents-in-a.pdf", 
+    "filename": "Extra instructions of young superintendents in a swimming pool.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/health-in-the-workplace-innovation-in-relationships-atm/Health-in-the-Workplace-ATM.pdf", 
+    "filename": "Health in the Workplace -  ATM.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/label-friendly-workspace/ZVD-IFA-Friendly-Work-Space-final.pdf", 
+    "filename": "ZVD IFA Friendly Work Space final.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/assessment-of-the-vocational-risk-of-natural-mining-environment/Assessmentof-the-vocationaltrainingPL-42.pdf", 
+    "filename": "Assessmentof the vocationaltrainingPL-42.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/the-work-well-programme-at-knock-travel/Work-Well-Programme-at-Knock-Travel.pdf", 
+    "filename": "Work Well Programme at Knock Travel.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/mars-wellness-programme/Mars-Wellness-Programme.pdf", 
+    "filename": "Mars Wellness Programme.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/equal-opportunities-for-all-employees/Magyar-Telekom.pdf", 
+    "filename": "Magyar Telekom.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/from-project-to-well-being-policy/Procter-Gamble.pdf", 
+    "filename": "Procter & Gamble.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/work-family-balance-and-employees-participation-programme/Work-Life-Balance-at-Oriflame.pdf", 
+    "filename": "Work-Life Balance at Oriflame.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/dundee-city-council-an-integrated-staff-support-service/Dundee-City-Council.pdf", 
+    "filename": "Dundee City Council.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/hedensted-kommune-municipality-of-hedensted/Healthy-Municipality-of-Hedensted.pdf", 
+    "filename": "Healthy Municipality of Hedensted.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/creativ-company/Creativ-Company.pdf", 
+    "filename": "Creativ Company.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/healthy-fiscal-authority-2013-mental-health-promotion-in-tax-authorities-in-north-rhine-westphalia/Healthy-Fiscal-Authority.pdf", 
+    "filename": "Healthy Fiscal Authority.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/viva-at-pro-mente-health-management/Viva-at-Pro-Mente-Health-Management.pdf", 
+    "filename": "Viva at Pro Mente - Health Management.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/improving-the-way-a-trade-union-deals-with-health-and-safety-questions-such-as-msd/Trade-union-dealing-with-health-and-safety.pdf", 
+    "filename": "Trade union dealing with health and safety questions such as msds.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/reduction-of-repetitive-work-at-coloplast/018-Reduction-of-repetitive-work-at-Coloplast.pdf", 
+    "filename": "018 Reduction of repetitive work at Coloplast.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/communication-e-network-developing-ergonomics-of-manual-handling-of-patients/014-Communication-e-network-developing-ergonomics.pdf", 
+    "filename": "014 Communication e-network developing ergonomics of patient handling.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/risk-analysis-and-prevention-on-a-motor-car-assembly-line/23_06_2010-Czeck-case.pdf", 
+    "filename": "23_06_2010 Czeck case.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/targeted-workplace-assessment-using-electronic-forms/Mental-Health-DK.pdf", 
+    "filename": "Mental Health-DK.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/comprehensive-risk-analysis-and-prevention-at-rio-tinto-minerals/Rio-Tinto-Minerals-AU.pdf", 
+    "filename": "Rio Tinto Minerals-AU.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/the-global-vae-hse-guidebook-software-for-systematic-risk-assessment/VAE-GmbH-AU.pdf", 
+    "filename": "VAE GmbH-AU.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/preventing-manual-handling-of-residents-in-a-care-home.1/008-Preventing-manual-handling-of-residents-in-a.pdf", 
+    "filename": "008 Preventing manual handling of residents in a care home.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/a-comprehensive-lifting-policy-for-the-prevention-of-back-complaints-among-home-helpers/021-Lifitng-policy-for-prevention-of-back.pdf", 
+    "filename": "021 Lifitng policy for prevention of back complaints among home helpers.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/innovative-work-organisation-for-moving-supplies/022-Innovative-work-organisation-for-moving.pdf", 
+    "filename": "022 Innovative work organisation for moving supplies.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/use-of-participatory-ergonomics-to-identify-and-solve-high-risk-tasks/019-Participatory-ergonomics-to-identify-and-solve.pdf", 
+    "filename": "019 Participatory ergonomics to identify and solve high risk taks.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/dealing-with-the-musculoskeletal-problems-of-guide-dog-trainers-and-mobility-instructors/020-Dealing-with-MSDs-of-guide-dog-trainers-and.pdf", 
+    "filename": "020 Dealing with MSDs of guide dog trainers and mobility instructors.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/a-comprehensive-approach-to-reduce-the-risk-of-msds/016-Comprehensive-approach-to-reduce-risks-of-MSDs.pdf", 
+    "filename": "016 Comprehensive approach to reduce risks of MSDs.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/reduction-of-lifting-through-smart-design/012-Reduction-of-lifting-through-smart-design.pdf", 
+    "filename": "012 Reduction of lifting through smart design.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/integrated-operator-fatigue-reduction-programme/011-Integrated-operator-fatigue-reduction.pdf", 
+    "filename": "011 Integrated operator fatigue reduction programme.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/prevention-of-musculoskeletal-disorders-among-nursing-and-care-staff/004-Prevention-of-MSDs-among-nursing-and-care.pdf", 
+    "filename": "004 Prevention of MSDs among nursing and care staff.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/management-of-equipment-aids-for-the-manual-movement-of-patients/006-Management-of-equipment-for-the-manual.pdf", 
+    "filename": "006 Management of equipment for the manual movement of patients.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/assistance-in-the-cleavage-and-grading-of-stone-material/005-Assistance-in-the-cleavage-and-granding-of.pdf", 
+    "filename": "005 Assistance in the cleavage and granding of stone material.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/modernisation-of-a-ceramics-factory-to-prevent-manual-lifting/009-Modernisation-of-a-ceramics-factory-to-prevent.pdf", 
+    "filename": "009 Modernisation of a ceramics factory to prevent manual lifting.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/replacement-of-wooden-pallets-by-incorporating-a-recessed-component-into-the-product/013-Replacement-of-wooden-pallets.pdf", 
+    "filename": "013 Replacement of wooden pallets.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/automation-of-visual-inspection/010-Automation-of-visual-inspection.pdf", 
+    "filename": "010 Automation of visual inspection.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/using-targeted-analysis-to-achieve-an-201cergoplus201d/007-Analysis-to-achieve-an-_Ergoplus_-industrial.pdf", 
+    "filename": "007 Analysis to achieve an _Ergoplus_ industrial workplace.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/lets-have-a-look-at-loads/024-Lets-have-a-look-at-loads.pdf", 
+    "filename": "024 Let's have a look at loads.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/19-may-test-1/002-Ergonomic-workplace-and-organisational-design.pdf", 
+    "filename": "002 Ergonomic workplace and organisational design in SMEs.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/19-may-test-2/003-Systematic-ergonomic-workplace-design-in.pdf", 
+    "filename": "003 Systematic ergonomic workplace design in sewing work.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/participative-development-of-work-methods-satke-taske/015-Participative-development-of-work-methods.pdf", 
+    "filename": "015 Participative development of work methods.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/maintaining-work-ability-in-power-supply/001_Maintaining-work-ability-in-power-supply.pdf", 
+    "filename": "001_Maintaining work ability in power supply.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/keeping-our-healthcare-workers-healthy-prevention/4-5-2_FAQs_draft_070427.doc", 
+    "filename": "4.5.2_FAQs_draft_070427.doc"
+  }, 
+  {
+    "alias": "/data/case-studies/test-by-gm/implicaciones-juridicas-de-la-presencia-en.pdf", 
+    "filename": "implicaciones juridicas de la presencia en internet.pdf"
+  }, 
+  {
+    "alias": "/data/case-studies/test-by-gm/future-web-standards.doc", 
+    "filename": "future web standards.doc"
+  }
+]
